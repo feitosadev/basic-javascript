@@ -12,3 +12,5 @@ console.log(nome, idade);
 
 const {nome: n, idade: i} = pessoa;
 console.log(n ,i);
+
+console.log(pessoa);
